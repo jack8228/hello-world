@@ -2,3 +2,4 @@
 my first github repository
 Add some new message into the article
 是不是支持中文呢
+支持中文输入
