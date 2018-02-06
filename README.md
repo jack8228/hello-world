@@ -1,2 +1,3 @@
 # hello-world
-my first githu repository
+my first github repository
+Add some new message into the article
